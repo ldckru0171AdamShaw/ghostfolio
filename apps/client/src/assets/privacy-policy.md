@@ -78,3 +78,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us [here](https://ghostfol.io/en/about).
 
 Date of Last Revision: March 29, 2025
+
+<!-- Auto-update: 2025-10-18T10:42:10.161950 -->
